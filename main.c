@@ -1,3 +1,11 @@
+/*
+    @brief Bu proje 2022-2023 Bahar Dönemi, Sistem Analizi ve Tasrımı dersi için aşağıdaki kişiler tarafından yapılmıştır.	
+    @brief Abdulkader SAOUD	
+    @brief Ahmed REİS	
+    @brief Ahmet Mahir DEMİRELLİ	
+    @brief Esam HALİMEH	
+    @brief Orkhan KARİMLİ
+*/
 #include <conio.h>
 #include <ctype.h>
 #include <stdio.h>
